@@ -1,7 +1,7 @@
-##Programming Assignments For CSCI 3753##
+## Programming Assignments For CSCI 3753 ##
 
-##PA1##
+### PA1 ###
 Kernel System Call
 
-##PA2##
+### PA2 ###
 Character Driver Using Loadable Kernel Modules
