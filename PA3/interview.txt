@@ -1,0 +1,21 @@
+Interview:
+
+CODE: (40)
+- Check for errors and warnings (-5)
+- Check Valgrind (-5, all or nothing)
+- Global Variables (-5)
+- Thread safe functions (-5)
+- Run with (1/n, n/1, n/n)
+    - Check serviced.txt, results.txt 
+    - One thread doing all the work (-5)
+    - Deadlock (-5)
+- Check performance.txt 
+- Final 10 points are up to you! 
+
+INTERVIEW: (60)
+- Quick Code oriented questions:
+    - Pick a random function they used (strcpy, etc) and ask what it does)
+    - How do threads interact with the same data? (How is data passed to threads)
+- Explain what thread_join() does and why you need to use it.
+- Why are there still periodic hangs in correctly working code?
+- How do requester threads know which files to process? (how they assign inputs to threads)
